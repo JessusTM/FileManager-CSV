@@ -1,6 +1,11 @@
 
 # CSV (Comma Separated Values)
 
+## Introduccion
+
+Este repositorio contiene el código completo para la manipulación de archivos CSV utilizando Java, presenta clases y métodos para realizar todas las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) desde la consola, haciendo uso de las claves que entrega Java para la manipulación de archivos.
+## Definición CSV
+
 Archivo de texto plano que almacena datos delimitando las entradas con comas. Los archivos CSV se utilizan frecuentemente cuando se necesita que los datos sean compatibles con diferentes programas. Pueden abrirse en editores de texto, programas de hojas de cálculo como Excel u otras aplicaciones especializadas.
 
 ## File
